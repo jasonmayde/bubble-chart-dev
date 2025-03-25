@@ -1,5 +1,5 @@
-// manifest.js
 google.visualization?.registerVisualization({
+  id: "bubble_chart_dev", // optional but recommended
   visualization: "index.html",
   components: ["script.js"],
   style: "style.css",
